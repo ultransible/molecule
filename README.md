@@ -14,7 +14,7 @@ Repository contains docker images for [molecule](https://molecule.readthedocs.io
 
 Repository contains docker images for [molecule](https://molecule.readthedocs.io/en/latest/) to be used for development/testing.
 
-Images in [systemd](systemd) directory come with systemd installed.
+Images in [OS_systemd](OS_systemd) directory come with systemd installed.
 
 
 ## License
