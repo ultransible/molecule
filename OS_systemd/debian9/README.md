@@ -1,6 +1,6 @@
 # systemd Docker Container 
 
-Dockerfile for Dubian stretch with systemd [Facebook ReDex](http://fbredex.com/)
+Dockerfile for Dubian stretch with systemd
 
 
 ## Usage
