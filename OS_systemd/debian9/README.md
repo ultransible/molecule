@@ -1,5 +1,3 @@
-# systemd Docker Container 
-
 Dockerfile for Dubian stretch with systemd
 
 
